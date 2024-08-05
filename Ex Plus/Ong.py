@@ -15,5 +15,4 @@ def Ong():
     else:
         print("N")
 
-if __name__ == "__main__":
-    Ong()
+Ong()
